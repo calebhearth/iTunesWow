@@ -1,0 +1,4 @@
+## Interface: 50001
+## Title: iTunes WoW
+iTunesWow.lua
+iTunesWow.xml
